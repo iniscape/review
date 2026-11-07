@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.1.5
+
+Changes:
+
+- Match the Wayland title bar to the app's appearance.
+- Show a comment that nothing resolves as a note.
+- Add Open in Browser to a repository's context menu.
+- Select a branch's whole name on a double-click.
+- Allow Approve on reviews you are not a reviewer on.
+- Sync a repository tab without redrawing it.
+
 ## 0.1.4
 
 Changes:
